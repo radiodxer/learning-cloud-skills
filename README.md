@@ -49,5 +49,5 @@ I'll provide more detailed instructions for various topics that you should learn
 - [GCP Basics - TODO: later](gcp-basics.md).
 - [Terraform Basics](terraform-basics.md).
 
-Testing watch.
+
 
