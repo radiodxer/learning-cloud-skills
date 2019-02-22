@@ -45,7 +45,7 @@ I recommend to order a [Pluralsight](https://learn.pluralsight.com/) account for
 I'll provide more detailed instructions for various topics that you should learn next in the following dedicated documents:
 
 - [AWS Basics](aws-basics.md).
-- [Azure Basics](aws-basics.md).
+- [Azure Basics](azure-basics.md).
 - [GCP Basics - TODO: later](gcp-basics.md).
 - [Terraform Basics](terraform-basics.md).
 
