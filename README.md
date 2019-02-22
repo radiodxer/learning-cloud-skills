@@ -42,7 +42,7 @@ These are the things you should learn first:
 
 I recommend to order a [Pluralsight](https://learn.pluralsight.com/) account for learning in Tieto Shop. There are a lot of simple introduction type courses in Pluralsight just to learn those basic skills. While you are watching the courses, keep the cloud portal open and experiment with it. You also should try to create some cloud resources using the cloud's command line interface (CLI) and infrastructure code.
 
-I'll provide more detailed instructions for various topics that you should learn next:
+I'll provide more detailed instructions for various topics that you should learn next in the following dedicated documents:
 
 - [AWS Basics](aws-basics.md).
 - [Azure Basics](aws-basics.md).
