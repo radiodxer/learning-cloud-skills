@@ -20,7 +20,7 @@ NOTE: This document is not an Azure course but provides a recommended roadmap ho
 
 # The Most Important Thing: Get an Azure Subscription
 
-I cannot emphasize this enough: You cannot learn Azure until you have an Azure subscription in which you try the Portal, Azure services etc. Watch the costs, though - always delete all resources after you have tried them.
+I cannot emphasize this enough: You cannot learn Azure effectively unless you have an Azure subscription. You need the subscription for trying things in the Portal, trying to deploy Azure services etc. Watch the costs, though - always delete all resources after you have tried them.
 
 
 # Basic Azure Knowledge
@@ -65,7 +65,7 @@ There are other tools as well - feel free to use google to search them. I recomm
 
 Which one to learn? Learn both. ARM is Azure native way to create infra code. You should have at least basic knowledge how to create and maintain resources using ARM templates. Microsoft provides a bunch of useful [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) - choose some and try to deploy it. Then examine the infra code and try to make some of your own changes and re-deploy.
 
-I have used both ARM and Terraform and personally I like Terraform more. So, I recommend to learn at least the basics of Terraform as well. Terraform has one important advantage to cloud native tools - you can use Terraform with any big cloud provider, i.e. learn to use the tool well and you can use it with Azure, AWS and GCP.
+I have used both ARM and Terraform and personally I like Terraform more. So, I recommend to learn at least the basics of Terraform as well. Terraform has one important advantage over cloud native tools - you can use Terraform with any big cloud provider, i.e. learn to use Terraform well and you can use it with Azure, AWS and GCP.
 
 If you are interested about Terraform I strongly recommend to watch some Terraform Introduction, e.g. [Terraform - Getting Started](https://www.pluralsight.com/courses/terraform-getting-started).
 
@@ -84,7 +84,7 @@ I strongly recommend you to get [Azure Certified](https://www.microsoft.com/en-u
 
 # Final Words
 
-How to become a good specialist in any field? I think there are a few important characteristics, and those characteristics have little to do with natural talent and more with hard work. First you have to have **[inner motivation](https://medium.com/tieto-developers/inner-motivation-always-beats-outer-motivation-677e7962d958)** - be curious like a small child when he or she learns the wonders of the world. Think new technology the way like you were a child with a bunch of mechano legos - what amazing things can I build with this stuff?
+How to become a good specialist in any field? I think there are a few important characteristics, and those characteristics have little to do with natural talent and more with hard work. First you have to have **[inner motivation](https://medium.com/tieto-developers/inner-motivation-always-beats-outer-motivation-677e7962d958)** - be curious like a small child when he or she learns the wonders of the world. Think of new technology the same way like when you were a child with a bunch of mechano legos - what amazing things can I build with this stuff?
 
 Then you have to have **will power**. You have to *decide* that you want to be a cloud guru one day. You don't become a cloud guru over night or after one course - this is a life-long journey. You need will power to stay focused in your new path.
 
