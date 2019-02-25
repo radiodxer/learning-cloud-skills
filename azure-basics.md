@@ -64,7 +64,7 @@ There are a couple of good candidates for this:
 
 There are other tools as well - feel free to use google to search them. I recommend those two tools since I believe they are most used when creating infra code in Azure.
 
-Which one to learn? Learn both. ARM is Azure native way to create infra code. You should have at least basic knowledge how to create and maintain resources using ARM templates. Microsoft provides a bunch of useful [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) - choose some and try to deploy it. Then examine the infra code and try to make some of your own changes and re-deploy.
+Which one to learn? Learn both. ARM is Azure native way to create infra code. You should have at least basic knowledge how to create and maintain resources using ARM templates. Microsoft provides a bunch of useful [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) - choose some and try to deploy them. Examine the infra code and try to make some of your own changes and re-deploy.
 
 I have used both ARM and Terraform and personally I like Terraform more. So, I recommend to learn at least the basics of Terraform as well. Terraform has one important advantage over cloud native tools - you can use Terraform with any big cloud provider, i.e. learn to use Terraform well and you can use it with Azure, AWS and GCP.
 
@@ -80,7 +80,7 @@ I strongly recommend you to get [Azure Certified](https://www.microsoft.com/en-u
 
 - You make yourself a goal for your studies.
 - The certification works as a validation that you know at least the basics of Azure.
-- Your company can use your certifications at least in two ways: a company needs a certain amount of certified specialist to get some premium level of partnership with the cloud provider, and more and more the customers are asking for certified cloud specialists to be named in responses regarding the request for proposal.
+- Your company can use your certifications at least in two ways: a company needs a certain amount of certified specialists to get some premium level of partnership with the cloud provider, and more and more the customers are asking for certified cloud specialists to be named in responses regarding the request for proposal.
 
 
 # About Learning in General
