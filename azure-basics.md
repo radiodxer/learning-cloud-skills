@@ -2,15 +2,15 @@
 
 
 # Table of Contents  <!-- omit in toc -->
-- [Introduction](#introduction)
-- [The Most Important Thing: Get an Azure Subscription](#the-most-important-thing-get-an-azure-subscription)
-- [Basic Azure Knowledge](#basic-azure-knowledge)
-- [Practical Knowledge: the Portal](#practical-knowledge-the-portal)
-- [Practical Knowledge: the CLI](#practical-knowledge-the-cli)
-- [Practical Knowledge: Infrastructure as Code](#practical-knowledge-infrastructure-as-code)
-- [Certifications](#certifications)
-- [About Learning in General](#about-learning-in-general)
-- [Final Words](#final-words)
+- [Introduction](#Introduction)
+- [The Most Important Thing: Get an Azure Subscription](#The-Most-Important-Thing-Get-an-Azure-Subscription)
+- [Basic Azure Knowledge](#Basic-Azure-Knowledge)
+- [Practical Knowledge: the Portal](#Practical-Knowledge-the-Portal)
+- [Practical Knowledge: the CLI](#Practical-Knowledge-the-CLI)
+- [Practical Knowledge: Infrastructure as Code](#Practical-Knowledge-Infrastructure-as-Code)
+- [Certifications](#Certifications)
+- [About Learning in General](#About-Learning-in-General)
+- [Final Words](#Final-Words)
 
 
 # Introduction
@@ -70,8 +70,7 @@ I have used both ARM and Terraform and personally I like Terraform more. So, I r
 
 If you are interested about Terraform I strongly recommend to watch some Terraform Introduction, e.g. [Terraform - Getting Started](https://www.pluralsight.com/courses/terraform-getting-started).
 
-Then boldly start using Terraform to create Azure resources. Experiment. Learn. I have created one project specifically for this purpose: [azure-intro-demo
-](https://github.com/tieto-pc/azure-intro-demo). Try to follow instructions in that project and deploy the infrastructure. If you had some issues with the demonstration I'd appreciate if you send me a short email regarding it. 
+Then boldly start using Terraform to create Azure resources. Experiment. Learn. I have created one project specifically for this purpose: [azure-intro-demo](https://github.com/tieto-pc/azure-intro-demo). Try to follow instructions in that project and deploy the infrastructure. If you had some issues with the demonstration I'd appreciate if you send me a short email regarding it. 
 
 
 # Certifications

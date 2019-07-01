@@ -47,8 +47,8 @@ I'll provide more detailed instructions for various topics that you should learn
 
 - [AWS Basics](aws-basics.md).
 - [Azure Basics](azure-basics.md).
-- [GCP Basics - TODO: later](gcp-basics.md).
-- [Terraform Basics - TODO: later](terraform-basics.md).
+- [GCP Basics](gcp-basics.md).
+- [Terraform Basics](terraform-basics.md).
 
 
 # My Cloud Related Blog Articles You May Find Useful 
@@ -60,5 +60,4 @@ I have written quite a few cloud related blog articles in my [Medium account](ht
 - [DevOps Success Factors](https://medium.com/tieto-developers/devops-success-factors-53beafe63942)
 
 The internet is full of good material for cloud learners: demos, documents, blog articles etc. Use Google search and start learning today!
-
 
